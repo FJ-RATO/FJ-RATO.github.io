@@ -1,4 +1,4 @@
-# Find Me Here(https://fj-rato.github.io/findMe/)
+# Find Me [Here](https://fj-rato.github.io/findMe/)
 
 ## What to expect?
 Just a small static website showing my evolution and giving some personal info.
