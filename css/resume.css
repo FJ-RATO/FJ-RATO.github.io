@@ -81,7 +81,10 @@ p.lead {
 }
 
 .dev-icons {
+  list-style-type: none;
   font-size: 3rem;
+  padding-left: 0px;
+
 }
 
 .dev-icons .list-inline-item i:hover {
